@@ -1,0 +1,45 @@
+img{
+    border-radius: 100%;
+    border-width: 20px;
+    width: 150px;
+    height: 13%;
+    padding: 5% 5% 1% 30%;
+    text-align: center;
+}
+.brief{
+    font-family: monospace;
+}
+.intro{
+    float:left;
+    width: 20%;
+    margin: 20px;
+    border-right: 10px solid #fcf4dd;
+}
+.name{
+    padding-bottom: 0%;
+    text-align: center;
+    font-family: sans-serif;
+}
+h3{
+    margin-bottom: 0px;
+}
+h5{
+    text-align: center;
+    margin-top: 0px;
+}
+.info-dets{
+    padding-left: 380px;
+}
+.rinfo{
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 35%;
+}
+.linfo{
+    padding-top: 1px;
+    padding-right: 30px;
+}
+.info{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
